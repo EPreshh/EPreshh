@@ -1,7 +1,7 @@
 ### About Me
 
 - *Hi there, I'm Precious.*
-- *My current research lies at the intersection of computation and gemnnomics, exploring antimicrobial resistance (AMR)*
+- *My current research lies at the intersection of computation and genomics, exploring antimicrobial resistance (AMR)*
 -----------------------------------------
 
 ### Technical Expertise
