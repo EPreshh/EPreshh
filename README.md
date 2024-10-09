@@ -1,16 +1,21 @@
-## Hi there 👋
+### About Me
 
-<!--
-**EPreshh/EPreshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *Hi there, I'm Precious.*
+- *My current research lies at the intersection of computation and gemnnomics, exploring antimicrobial resistance (AMR)*
+-----------------------------------------
 
-Here are some ideas to get you started:
+### Technical Expertise
+- *Programming Languages: `Python`, `Bash`, `R`, `SQL`, with experience in `C`.*
+- *Bioinformatics tools: Always learning, always exploring...*
+-------------------
+  
+### Collaboration
+- *Got quetions about AMR genomics, bioinformatics, or microbial analysis? Ask away!*
+- *Let's discuss potential collaborations: reach out via my social media channels (listed in my profile)*
+---------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Info
+- *Pronouns: She/her*
+--------------------------
+### Fun Fact
+- *The ratio of microbes to human cells in our bodies is closer to 1:1!* [[1]](http://dx.doi.org/10.1016/j.cell.2016.01.013)
